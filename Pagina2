@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>album de foto </title>
+</head>
+<body>
+
+    <img src= "https://static.displate.com/270x380/displate/2023-04-24/78a21ffca3e8733a4d92a17c0aad776d_c2a60b87c2c8c954ef4a12575fefe03b.jpg" alt=" " height="400" >
+    <img src= "https://psxbrasil.com.br/wp-content/uploads/2020/09/HZD2_1080.jpg" alt="tanto faz " height="400" >
+   <hr>
+    <img src= "https://w0.peakpx.com/wallpaper/232/888/HD-wallpaper-there-is-no-escape-art-game-hades-video-videogame-zagreus.jpg" alt=" " height="400" >
+    <img src= "https://wallpapers.com/images/featured/4k-call-of-duty-pmk61whx1j7kjhve.jpg" alt="" height="400" width="500" >
+    <hr>
+    <img src= "https://cdn.myportfolio.com/7fda6eec3ddc616d5a8da0e23728fb49/4153e1ab9f92791d37e253b0_rw_1920.jpg?h=bae0436e43e9064dddde7e21e01bc46f" alt="t " height="400" >
+    <img src= "https://wallpapers.com/images/featured/ratchet-and-clank-yxman9eogigo4zde.jpg" alt="" height="400" >
+    <hr>
+    
+    <style>
+    body{
+        background-color: #424242;
+    }
+    
+    img {
+  border: 4px solid rgb(0, 0, 0);
+}
+
+    </style>
+
+ 
+</body>
+</html>
